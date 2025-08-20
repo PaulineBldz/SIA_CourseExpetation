@@ -1,1 +1,1 @@
-# SIA_CourseExpetation
+# SIA_CourseExpectation
